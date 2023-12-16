@@ -1,0 +1,24 @@
+PODS:
+  - FlagKit (2.2)
+  - KeychainAccess (4.2.2)
+  - MMDB-Swift (0.5.1)
+
+DEPENDENCIES:
+  - FlagKit
+  - KeychainAccess
+  - MMDB-Swift
+
+SPEC REPOS:
+  trunk:
+    - FlagKit
+    - KeychainAccess
+    - MMDB-Swift
+
+SPEC CHECKSUMS:
+  FlagKit: eca7dc89064b0c986302ba9acefad1bf80a435b1
+  KeychainAccess: c0c4f7f38f6fc7bbe58f5702e25f7bd2f65abf51
+  MMDB-Swift: c1089703b65a3d1301fc92ff8f55d4794a569214
+
+PODFILE CHECKSUM: 04a89c80eed40c9e14cc29990cb2250f569d77ca
+
+COCOAPODS: 1.14.2
